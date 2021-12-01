@@ -10,7 +10,7 @@ library(gridExtra)
 library(jpeg)
 library(png)
 
-path <- "~/Praca&pohovory/DataScentics/BookRecommender"
+path <- "~/BookRecommender"
 setwd(path)
 
 
